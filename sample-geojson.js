@@ -1,3 +1,4 @@
+
 var freeBus = {
     "type": "FeatureCollection",
     "features": [
@@ -6,13 +7,16 @@ var freeBus = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [40.5301622, 17.5826774],
-                    [40.5301622, 17.5826774]
+                    [17.578783, 40.541486],
+                    [17.578864, 40.539403]
                 ]
             },
             "properties": {
-                "popupContent": "This is a free bus lineeeee that will take you across downtown.",
-                "underConstruction": false
+                
+                "popupContent": "Via Armando Franco",
+                
+                "underConstruction": false,
+                
             },
             "id": 1
         },
@@ -21,13 +25,15 @@ var freeBus = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [-105.0008225440979, 39.751891803969535],
-                    [-104.99820470809937, 39.74979664004068]
+                    [17.580846, 40.530015],
+                    [17.58088, 40.529143],
+                    [17.580915, 40.528404]
+                    
                 ]
             },
             "properties": {
-                "popupContent": "This is a free bus line that will take you across downtown.",
-                "underConstruction": true
+                "popupContent": "Via Arciprete Quaranta",
+                "underConstruction": false
             },
             "id": 2
         },
@@ -246,3 +252,4 @@ var coorsField = {
         "coordinates": [-104.99404191970824, 39.756213909328125]
     }
 };
+
