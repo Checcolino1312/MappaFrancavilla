@@ -1,5 +1,5 @@
 
-var freeBus = {
+var Completate = {
     "type": "FeatureCollection",
     "features": [
         {
@@ -15,7 +15,7 @@ var freeBus = {
                 
                 "popupContent": "Via Armando Franco",
                 
-                "underConstruction": false,
+                "underConstruction": false
                 
             },
             "id": 1
@@ -42,18 +42,118 @@ var freeBus = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [-104.99820470809937, 39.74979664004068],
-                    [-104.98689651489258, 39.741052354709055]
+                    [17.582675,40.529447],
+                    [17.583320,40.529702]
                 ]
             },
             "properties": {
-                "popupContent": "This is a free bus line that will take you across downtown.",
+                "popupContent": "Via S. Eligio",
                 "underConstruction": false
             },
             "id": 3
         }
     ]
 };
+
+var Prossime = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [17.572925,40.529578],
+                    [17.586914,40.526323]
+                ]
+            },
+            "properties": {
+                
+                "popupContent": "Via San Francesco",
+                
+                "underConstruction": false
+                
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [17.578369,40.526909],
+                    [17.578383,40.528263]
+                  
+                    
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Della Conciliazione",
+                "underConstruction": false
+            },
+            "id": 2
+        },
+
+    ]
+};
+
+
+var Programma = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [17.589231,40.525108],
+                    [17.588678,40.524754],
+                    [17.586783,40.524346],
+                    [17.584325,40.524613]
+                ]
+            },
+            "properties": {
+                
+                "popupContent": "Via Mulini",
+                
+                "underConstruction": false
+                
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [17.583746,40.526195],
+                    [17.581634,40.525785]
+                  
+                    
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Montessori",
+                "underConstruction": false
+            },
+            "id": 2
+        },
+
+    ]
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 var lightRailStop = {
     "type": "FeatureCollection",
