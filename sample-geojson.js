@@ -42,16 +42,763 @@ var Completate = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [17.582675,40.529447],
-                    [17.583320,40.529702]
+                    [	17.578865, 40.537031	],[	17.581228,40.536341	]
                 ]
             },
             "properties": {
-                "popupContent": "Via S. Eligio",
+                "popupContent": "Via Spagna",
                 "underConstruction": false
             },
             "id": 3
-        }
+        },
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+        [	17.579875, 40.537208	],[	17.58183, 40.537217	]
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Danimarca",
+                "underConstruction": false
+            },
+            "id": 4
+        },
+        
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+      [	17.589274, 40.533251	],[	17.591739, 40.533139	]
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Caroli ",
+                "underConstruction": false
+            },
+            "id": 5
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.590827, 40.533848	],[	17.590656, 40.532278	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Toti",
+                "underConstruction": false
+            },
+            "id": 6
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.580975, 40.525225	],[	17.577461, 40.525502	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Mascagni",
+                "underConstruction": false
+            },
+            "id": 7
+            
+        },
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.585679, 40.525576	],[	17.585866, 40.526519	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via P. Argentina ",
+                "underConstruction": false
+            },
+            "id": 8
+        },
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.591276, 40.529063	],[	17.592059, 40.529153	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Pola ",
+                "underConstruction": false
+            },
+            "id": 9
+        },
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.592059, 40.529153	],[	17.592177, 40.528293	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Zara",
+                "underConstruction": false
+            },
+            "id": 10
+        },
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.591232, 40.529496	],[	17.591317, 40.52866	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Montebello ",
+                "underConstruction": false
+            },
+            "id": 11
+        },
+        
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.589821, 40.525908	],[	17.589523, 40.52683	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Costantino",
+                "underConstruction": false
+            },
+            "id": 12
+        },
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.57834, 40.524297	],[	17.578527,40.525431]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Leoncavallo ",
+                "underConstruction": false
+            },
+            "id": 13
+        },
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.575218, 40.535746	],[	17.574631, 40.53375	],[	17.575562, 40.533599	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Bilotta",
+                "underConstruction": false
+            },
+            "id": 14
+        },
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.582675, 40.529447	],[	17.58370, 40.529724	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via S Eligio",
+                "underConstruction": false
+            },
+            "id": 15
+        },
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.58185, 40.529757	],[	17.582494, 40.529832	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Basile ",
+                "underConstruction": false
+            },
+            "id": 16
+        },
+           
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+      [	17.580999, 40.533963	],[	17.581173, 40.535232	]
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Cotogno ",
+                "underConstruction": false
+            },
+            "id": 17
+        },
+        
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                  [ 17.587535,40.529501],  [	17.587391, 40.528805	],[	17.587422, 40.528735	],[	17.587382, 40.528554	],
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Piave",
+                "underConstruction": false
+            },
+            "id": 18
+        },
+           
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+      [	17.588199, 40.529441	],[	17.588105, 40.528402	]
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Tagliavento ",
+                "underConstruction": false
+            },
+            "id": 19
+        },
+             
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.588606, 40.529412	],[	17.5885, 40.528338	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via P. Incalza ",
+                "underConstruction": false
+            },
+            "id": 20
+        },
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.589431, 40.528127	],[	17.589406, 40.527328	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Montegrappa",
+                "underConstruction": false
+            },
+            "id": 21
+        },
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.577226, 40.526155	],[17.581564,40.525766]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Giordano",
+                "underConstruction": false
+            },
+            "id": 22
+        },  
+        
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.575448, 40.532171	],[	17.580179, 40.532468	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Mazzini ",
+                "underConstruction": false
+            },
+            "id": 23
+        },
+        
+            
+                {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.587192, 40.530623	],[	17.58711, 40.530123	],[	17.587837, 40.530063	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Fiume",
+                "underConstruction": false
+            },
+            "id": 24
+        },
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.582317, 40.53453	],[	17.581941, 40.533622	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Pellico",
+                "underConstruction": false
+            },
+            "id": 25
+        },
+        
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.582754, 40.535049	],[	17.582824, 40.534753	],[	17.5828, 40.534505	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Belfiore",
+                "underConstruction": false
+            },
+            "id": 26
+        },
+        
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.592221, 40.523286	],[	17.592512, 40.524106	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Brigatiere Di Maria ",
+                "underConstruction": false
+            },
+            "id": 27
+        },
+       
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.586063, 40.52736	],[	17.587227, 40.527215	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Giovanni Calò ",
+                "underConstruction": false
+            },
+            "id": 28
+        },
+        
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+                    [	17.579831, 40.52793	],[	17.579896, 40.525909	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Casisto ",
+                "underConstruction": false
+            },
+            "id": 29
+        },
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.586779, 40.527695	],[	17.584967, 40.52806	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Forleo Lorenzo ",
+                "underConstruction": false
+            },
+            "id": 30
+        },
+         
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+      [	17.578115, 40.529962	],[	17.578037, 40.530935	]
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Rudiae",
+                "underConstruction": false
+            },
+            "id": 31
+        },
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.581456, 40.528336	],[	17.581922, 40.528446	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Salamastro ",
+                "underConstruction": false
+            },
+            "id": 32
+        },
+        
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.579822, 40.532447	],[	17.579994, 40.531124	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Cesare Milone  ",
+                "underConstruction": false
+            },
+            "id": 33
+        },
+        
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.577035, 40.534805	],[	17.575811, 40.533557	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Pinca",
+                "underConstruction": false
+            },
+            "id": 34
+        },
+            
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+      [	17.591838, 40.525702	],[	17.589743, 40.525517	]
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Pascoli",
+                "underConstruction": false
+            },
+            "id": 35
+        },
+        
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.57588, 40.534518	],[	17.578005,40.533320	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Forleo",
+                "underConstruction": false
+            },
+            "id": 36
+        },
+         
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.576609, 40.535052	],[	17.576071, 40.534429	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Parini ",
+                "underConstruction": false
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.584469, 40.527966	],[	17.584466, 40.528986	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Sellario",
+                "underConstruction": false
+            },
+            "id": 38
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        [	17.585359, 40.533001	],[	17.5861, 40.533004	]
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Confalonieri ",
+                "underConstruction": false
+            },
+            "id": 39
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [	17.584002, 40.52931	],[	17.582792, 40.529006	]
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via Pepe",
+                "underConstruction": false
+            },
+            "id": 39
+        },
+        /*
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                 
+        
+      
+        
+        
+                ]
+            }, 
+            
+            "properties": {
+                "popupContent": "Via ",
+                "underConstruction": false
+            },
+            "id": n
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    
+        
+      
+        
+        
+                ]
+            },
+            "properties": {
+                "popupContent": "Via ",
+                "underConstruction": false
+            },
+            "id": n
+        },
+        */
+        
     ]
 };
 
