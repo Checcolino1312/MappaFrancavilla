@@ -1153,7 +1153,7 @@ var Programma = {
 
 
 
-
+/*
 var lightRailStop = {
     "type": "FeatureCollection",
     "features": [
@@ -1178,8 +1178,10 @@ var lightRailStop = {
         }
     ]
 };
+*/
 
-var bicycleRental = {
+
+var bicycleRental = {/*
     "type": "FeatureCollection",
     "features": [
         {
@@ -1280,10 +1282,10 @@ var bicycleRental = {
             },
             "id": 74
         }
-    ]
+    ]*/
 };
 
-var campus = {
+var campus = {/*
     "type": "Feature",
     "properties": {
         "popupContent": "This is the Auraria West Campus",
@@ -1338,17 +1340,8 @@ var campus = {
                 ]
             ]
         ]
-    }
+    }*/
 };
 
-var coorsField = {
-    "type": "Feature",
-    "properties": {
-        "popupContent": "Coors Field"
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [-104.99404191970824, 39.756213909328125]
-    }
-};
+
 
