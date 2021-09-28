@@ -1583,7 +1583,7 @@ var bicycleRental = {/*
         }
     ]*/
 };
-/*
+
 var campus = {
     "type": "Feature",
     "properties": {
@@ -1608,7 +1608,7 @@ var campus = {
         
     }
 };
-
+/*
 var coorsField = {
     "type": "Feature",
     "properties": {
