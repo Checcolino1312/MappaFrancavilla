@@ -1584,7 +1584,7 @@ var bicycleRental = {/*
     ]*/
 };
 
-var campus = {
+var campus = {/*
     "type": "Feature",
     "properties": {
         "popupContent": "Piazza Don Luigi Sturzo",
@@ -1607,7 +1607,7 @@ var campus = {
             ]
         
     }
-};
+*/};
 /*
 var coorsField = {
     "type": "Feature",
