@@ -1608,6 +1608,7 @@ var campus = {
         
     }
 };
+/*
 var coorsField = {
     "type": "Feature",
     "properties": {
@@ -1618,3 +1619,4 @@ var coorsField = {
         "coordinates": [17.582308305511325,40.530904620085884]
     }
 };
+*/
